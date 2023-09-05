@@ -1,15 +1,10 @@
-# hg_1_alfa
+# Titulo
 Hack-1 Repositorio Alfa
-# Tipo de usuario
+
+# Usuario
 - [X] Alfa - Patricia
 - [ ] Bravo - Adonis
 - [ ] Charlie - Valeria 
 - [ ] Delta - Eleazar
 - [ ] Echo - Nubia
 
-# Seleccione el tipo de actividad
-- [ ] Feature
-- [ ] Hotfix
-- [ ] Refactor
-- [ ] Performance
-- [ ] Testing
